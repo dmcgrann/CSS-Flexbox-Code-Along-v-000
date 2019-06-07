@@ -23,7 +23,7 @@ footer {
 }
 
 .flex-container {
-  isplay: flex;
+  display: flex;
   width: 100vw;
   height: 100vh;
 }
