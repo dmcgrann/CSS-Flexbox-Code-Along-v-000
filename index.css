@@ -49,5 +49,5 @@ footer {
 }
 
 .alignSelf {
-  flex-end: align-self
+  align-self: flex-end;
 }
